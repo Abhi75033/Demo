@@ -1,0 +1,19 @@
+.Heading{
+    background-color: coral;
+    margin: 10px 100px;
+    overflow: auto;
+    border: solid 10px black;
+    padding-left: 500px;
+}
+p{
+    text-align: justify;
+ max-height: 300px;
+ max-width: 200px;
+ background-color: #ffff;
+ overflow: auto;
+
+}
+
+*{
+    background-color: #ccc;
+}

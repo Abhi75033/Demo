@@ -1,0 +1,80 @@
+.image01 img{
+    height: 50px;
+    width: 60px;
+}
+.image01{
+    background-color: #f5fd00;
+    height: 50px;
+}
+
+
+.h101{
+    text-align: center;
+    /* background-color: #1dff09; */
+   margin: -42px 0px 0px 0px;
+}
+
+
+
+.username01{
+    padding: 0px 0px 0px 325px;
+    
+}
+
+.username02{
+    padding: 0px 0px 0px 325px; 
+}
+
+input{
+    height: 50px;
+    width: 500px;
+}
+
+.h201{
+    text-align: center;
+    
+}
+
+
+
+.button01{
+    padding: 0px 0px 0px 587px; 
+}
+
+.button01 button{
+    padding: 8px 43px 6px 37px;
+    text-align: center;
+    font-weight: 900;
+    color:#ffffff;
+    background-color: lightgreen;
+    
+}
+
+a:hover{
+    color: #000000;
+    
+}
+
+body{
+    background-color: aliceblue;
+}
+
+h3{
+   text-align: center;
+   padding-right: 50px ;
+   padding-top: 0px ;
+}
+
+p{
+    text-align: center;
+    padding-right: 50px ;
+
+}
+
+.ab{
+    text-decoration: none;
+}
+
+*{
+    margin: 0px;
+}
